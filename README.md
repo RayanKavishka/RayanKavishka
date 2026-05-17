@@ -10,6 +10,16 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-a78bfa?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Negombo%2C%20Sri%20Lanka-a78bfa?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-a78bfa?style=flat-square&labelColor=0d1117"/>
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -17,12 +27,12 @@
 ```java
 public class RayanKavishka {
 
-    String name       = "Rayan Kavishka";
-    String role       = "Full Stack Engineer | Backend Specialist";
-    String location   = "Negombo, Sri Lanka 🇱🇰";
-    String education  = "Higher Diploma in Software Engineering @ IJSE";
-    String degree     = "BSc (Hons) Computer Science @ CINEC Campus";
-    int    age        = 22;
+    String  name      = "Rayan Kavishka";
+    String  role      = "Full Stack Engineer | Backend Specialist";
+    String  location  = "Negombo, Sri Lanka 🇱🇰";
+    String  education = "Higher Diploma in Software Engineering @ IJSE";
+    String  degree    = "BSc (Hons) Computer Science @ CINEC Campus";
+    int     age       = 22;
 
     String[] techStack = { "Java", "Spring Boot", "React", "Node.js", "MySQL", "MongoDB" };
     String[] interests = { "Backend Engineering", "Full Stack Dev", "DevOps", "Clean Code" };
@@ -41,28 +51,25 @@ public class RayanKavishka {
 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="60" height="60"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://openjfx.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javafx" alt="JavaFX" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
   </a>
 </p>
 
@@ -70,10 +77,10 @@ public class RayanKavishka {
 
 <p align="center">
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
   </a>
 </p>
 
@@ -81,58 +88,27 @@ public class RayanKavishka {
 
 <p align="center">
   <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="60" height="60"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://netbeans.apache.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netbeans" alt="NetBeans" width="60" height="60"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/datagrip/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=datagrip" alt="DataGrip" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.docker.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.figma.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://gluonhq.com/products/scene-builder/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javafx" alt="Scene Builder" width="60" height="60"/>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayanKavishka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanKavishka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayanKavishka&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🎨 Paint Shop Management System](https://github.com/RayanKavishka/Paint-Shop-Management-System) | Desktop app automating paint shop ops — inventory, billing, reports | Java · JavaFX · MySQL · JDBC |
-| [📦 Stock Management System](https://github.com/RayanKavishka/stock-management-system-terminal-based) | Terminal-based inventory manager with real-time updates & validation | Java |
-| [🔴 Connect 4 Game](https://github.com/RayanKavishka/connect-4-Game) | Two-player desktop board game with win detection & smooth UX | Java · JavaFX · Maven |
-| [🌐 My Portfolio](https://github.com/RayanKavishka/myPortfolio) | Responsive portfolio site with animations & modern layout | HTML · CSS · JavaScript |
 
 ---
 
@@ -162,8 +138,6 @@ public class RayanKavishka {
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RayanKavishka&color=a78bfa&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
