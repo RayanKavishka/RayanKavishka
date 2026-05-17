@@ -12,14 +12,6 @@
 
 <br/>
 
-<div align="center">
-![Focus](https://img.shields.io/badge/ROLE-Full%20Stack%20Engineer-6d28d9?style=for-the-badge&labelColor=0d1117&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/LOCATION-Negombo%2C%20Sri%20Lanka-6d28d9?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Work-6d28d9?style=for-the-badge&labelColor=0d1117)
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
