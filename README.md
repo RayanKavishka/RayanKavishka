@@ -13,11 +13,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-a78bfa?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Fullstack%20Engineering-a78bfa?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Negombo%2C%20Sri%20Lanka-a78bfa?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Location-Negombo%2C%20Sri%20Lanka-a78bfa?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-a78bfa?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-a78bfa?style=flat-square"/>
 </div>
 
 ---
