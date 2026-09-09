@@ -40,13 +40,16 @@ public class RayanKavishka {
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-
+ 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
@@ -62,6 +65,9 @@ public class RayanKavishka {
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/>
   </a>
 </p>
 
