@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Rayan+%F0%9F%91%8B;Full+Stack+Engineer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Building+scalable%2C+real-world+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Rayan+%F0%9F%91%8B;Full+Stack+Engineer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Tailwind+CSS+%7C+Building+scalable+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ public class RayanKavishka {
     String  degree    = "BSc (Hons) Computer Science @ CINEC Campus";
     int     age       = 22;
 
-    String[] techStack = { "Java", "Spring Boot", "React", "Node.js", "MySQL", "MongoDB" };
+    String[] techStack = { "Java", "Spring Boot", "React", "Node.js", "Tailwind CSS", "MySQL", "MongoDB" };
     String[] interests = { "Backend Engineering", "Full Stack Dev", "DevOps", "Clean Code" };
 
     String contact() {
@@ -65,6 +65,9 @@ public class RayanKavishka {
   </a>&nbsp;&nbsp;
   <a href="https://react.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
