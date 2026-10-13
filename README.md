@@ -6,15 +6,7 @@
   <img alt="Rayan Kavishka | Full Stack Engineer | Java Specialist | DevOps Enthusiast" src="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg" width="100%">
 </picture>
 
-<br/>
 
-<a href="https://rayankavishka.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=firefox-browser&logoColor=A78BFA" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rayankavishka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:rayanofficial2004@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"/></a>
-
-</div>
-
-<br/>
 
 ---
 
