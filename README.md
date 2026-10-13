@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rayan%20Kavishka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Java%20Specialist%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg">
+  <img alt="Rayan Kavishka | Full Stack Engineer | Java Specialist | DevOps Enthusiast" src="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg" width="100%">
+</picture>
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Rayan+%F0%9F%91%8B;Full+Stack+Engineer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Tailwind+CSS+%7C+Building+scalable+solutions)](https://git.io/typing-svg)
+<a href="https://rayankavishka.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=firefox-browser&logoColor=A78BFA" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rayankavishka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:rayanofficial2004@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"/></a>
 
 </div>
 
@@ -40,7 +44,7 @@ public class RayanKavishka {
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
- 
+
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
