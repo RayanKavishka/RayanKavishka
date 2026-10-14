@@ -6,7 +6,7 @@
   <img alt="Rayan Kavishka | Full Stack Engineer | Backend Specialist" src="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/light.svg" width="100%">
 </picture>
 
-
+</div>
 
 ---
 
@@ -37,7 +37,7 @@ public class RayanKavishka {
 
 ### Languages & Frameworks
 
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   </a>&nbsp;&nbsp;
@@ -75,7 +75,7 @@ public class RayanKavishka {
 
 ### Databases
 
-<p align="center">
+<p align="left">
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
   </a>&nbsp;&nbsp;
@@ -86,7 +86,7 @@ public class RayanKavishka {
 
 ### Tools & Platforms
 
-<p align="center">
+<p align="left">
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
   </a>&nbsp;&nbsp;
@@ -114,7 +114,7 @@ public class RayanKavishka {
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/RayanKavishka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
