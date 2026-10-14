@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg">
-  <img alt="Rayan Kavishka | Full Stack Engineer | Java Specialist | DevOps Enthusiast" src="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/banner.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/light.svg">
+  <img alt="Rayan Kavishka | Full Stack Engineer | Backend Specialist" src="https://raw.githubusercontent.com/RayanKavishka/RayanKavishka/main/light.svg" width="100%">
 </picture>
 
 
